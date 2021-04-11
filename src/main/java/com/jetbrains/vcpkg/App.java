@@ -21,6 +21,7 @@ public class App {
     private JTextField packageNameField;
     private JButton installButton;
     private JLabel loadingBar;
+    private JTextField textField1;
     PackageService packageService;
 
     public static void main(String[] args) {
