@@ -9,5 +9,5 @@ Project for JB internship
 # Build & Run
 ```shell
 $ mvn install
-$ java -cp target/vcpkg-1.0-SNAPSHOT.jar com.jetbrains.vcpkg.App
+$ sudo java -cp target/vcpkg-1.0-SNAPSHOT.jar com.jetbrains.vcpkg.App
 ```
